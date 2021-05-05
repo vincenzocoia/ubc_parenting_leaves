@@ -6,5 +6,5 @@ UBC faculty who become parents by surrogacy or by adoption do not enjoy the same
 
 Links:
 
-- [Proposal](proposal.pdf): outlines the proposed changes to UBC language and policy.
+- [Proposal](Proposal.pdf): outlines the proposed changes to UBC language and policy.
 - [Family leave comparisons](Family_leave_comparisons.pdf): draws a comparison between UBC policy and other prominent institutions.
